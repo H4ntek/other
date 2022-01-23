@@ -1,2 +1,1 @@
-# DP
-Dynamic programming
+Zadania nie z OI / non-OI problems
